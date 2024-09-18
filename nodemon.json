@@ -1,0 +1,9 @@
+{
+    "env" : {
+        "DB_USER" : "rohitsharma08",
+        "DB_PASSWORD" : "NPyRn4oEnnuf5wdI",
+        "DB_NAME" : "mern",
+        "COORDINATES_KEY" : "pk.db3c09a03908228b58d0a8d357dfc92e",
+        "JWT_KEY" : "supersecret_dont_share"
+    }
+}
